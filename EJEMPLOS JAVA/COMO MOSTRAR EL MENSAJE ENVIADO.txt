@@ -1,0 +1,65 @@
+Microsoft Windows [Versión 10.0.19041.508]
+(c) 2020 Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\SONY>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 22CF-C055
+
+ Directorio de C:\Users\SONY
+
+23/09/2020  10:28 a. m.    <DIR>          .
+23/09/2020  10:28 a. m.    <DIR>          ..
+23/09/2020  09:42 a. m.                14 .bash_history
+23/09/2020  09:51 a. m.    <DIR>          .dotnet
+23/09/2020  09:01 a. m.    <DIR>          .nbi
+23/09/2020  01:18 a. m.    <DIR>          3D Objects23/09/2020  01:18 a. m.    <DIR>          Contacts
+23/09/2020  06:54 p. m.    <DIR>          Desktop
+23/09/2020  03:07 p. m.    <DIR>          Documents
+23/09/2020  04:43 p. m.    <DIR>          Downloads
+23/09/2020  01:18 a. m.    <DIR>          Favorites
+23/09/2020  01:18 a. m.    <DIR>          Links
+23/09/2020  01:18 a. m.    <DIR>          Music
+23/09/2020  01:49 a. m.    <DIR>          OneDrive
+23/09/2020  01:19 a. m.    <DIR>          Pictures
+23/09/2020  01:18 a. m.    <DIR>          Saved Games
+23/09/2020  01:19 a. m.    <DIR>          Searches
+23/09/2020  10:28 a. m.    <DIR>          source
+23/09/2020  01:18 a. m.    <DIR>          Videos
+               1 archivos             14 bytes
+              18 dirs  182,198,648,832 bytes libres
+
+C:\Users\SONY>cd Desktop
+
+C:\Users\SONY\Desktop>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 22CF-C055
+
+ Directorio de C:\Users\SONY\Desktop
+
+23/09/2020  06:54 p. m.    <DIR>          .
+23/09/2020  06:54 p. m.    <DIR>          ..
+23/09/2020  06:53 p. m.               109 practica1.txt
+23/09/2020  06:54 p. m.               109 ruth.java
+               2 archivos            218 bytes
+               2 dirs  182,199,070,720 bytes libres
+
+C:\Users\SONY\Desktop>javac ruth.java
+ruth.java:2: error: cannot find symbol
+  public static void main(string args[]){
+                          ^
+  symbol:   class string
+  location: class ruth
+1 error
+
+C:\Users\SONY\Desktop>javac ruth.java
+ruth.java:2: error: cannot find symbol
+  public static void main(string args[]){
+                          ^
+  symbol:   class string
+  location: class ruth
+1 error
+
+C:\Users\SONY\Desktop>javac ruth.java
+
+C:\Users\SONY\Desktop>java ruth
+TE AMO VERA
